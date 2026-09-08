@@ -12,7 +12,11 @@
 **/[Bb]uild/
 **/[Bb]uilds/
 **/[Ll]ogs/
+<<<<<<< HEAD
 **S/[Uu]ser[Ss]ettings/
+=======
+**/[Uu]ser[Ss]ettings/
+>>>>>>> 738a1d6698f831cdca0fbfcf802286764da1834a
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
